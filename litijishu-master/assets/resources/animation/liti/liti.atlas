@@ -1,0 +1,90 @@
+
+liti.png
+size: 663,334
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 4
+  size: 337, 328
+  orig: 337, 328
+  offset: 0, 0
+  index: -1
+caozuo1
+  rotate: true
+  xy: 476, 2
+  size: 59, 132
+  orig: 59, 132
+  offset: 0, 0
+  index: -1
+caozuo2
+  rotate: true
+  xy: 341, 4
+  size: 58, 133
+  orig: 58, 133
+  offset: 0, 0
+  index: -1
+ear1
+  rotate: true
+  xy: 542, 84
+  size: 62, 88
+  orig: 62, 88
+  offset: 0, 0
+  index: -1
+ear2
+  rotate: false
+  xy: 477, 63
+  size: 63, 88
+  orig: 63, 88
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: false
+  xy: 632, 94
+  size: 29, 52
+  orig: 29, 52
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: false
+  xy: 610, 30
+  size: 31, 52
+  orig: 31, 52
+  offset: 0, 0
+  index: -1
+eyebg
+  rotate: false
+  xy: 341, 153
+  size: 202, 76
+  orig: 202, 76
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 341, 231
+  size: 231, 101
+  orig: 231, 101
+  offset: 0, 0
+  index: -1
+hand1
+  rotate: false
+  xy: 341, 64
+  size: 134, 87
+  orig: 134, 87
+  offset: 0, 0
+  index: -1
+hand2
+  rotate: true
+  xy: 574, 198
+  size: 134, 87
+  orig: 134, 87
+  offset: 0, 0
+  index: -1
+zui
+  rotate: false
+  xy: 545, 148
+  size: 112, 48
+  orig: 112, 48
+  offset: 0, 0
+  index: -1

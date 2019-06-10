@@ -1,0 +1,62 @@
+
+shuicao.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shanhu_1
+  rotate: false
+  xy: 343, 2
+  size: 96, 101
+  orig: 96, 101
+  offset: 0, 0
+  index: -1
+shanhu_2
+  rotate: false
+  xy: 848, 179
+  size: 121, 62
+  orig: 121, 62
+  offset: 0, 0
+  index: -1
+shanhu_3
+  rotate: true
+  xy: 441, 26
+  size: 79, 71
+  orig: 79, 71
+  offset: 0, 0
+  index: -1
+shuicao_1
+  rotate: true
+  xy: 2, 15
+  size: 88, 339
+  orig: 88, 339
+  offset: 0, 0
+  index: -1
+shuicao_2
+  rotate: true
+  xy: 409, 155
+  size: 86, 292
+  orig: 86, 292
+  offset: 0, 0
+  index: -1
+shuicao_3
+  rotate: true
+  xy: 703, 176
+  size: 65, 143
+  orig: 65, 143
+  offset: 0, 0
+  index: -1
+shuicao_4
+  rotate: true
+  xy: 409, 107
+  size: 46, 108
+  orig: 46, 108
+  offset: 0, 0
+  index: -1
+shuicao_5
+  rotate: true
+  xy: 2, 105
+  size: 136, 405
+  orig: 136, 405
+  offset: 0, 0
+  index: -1

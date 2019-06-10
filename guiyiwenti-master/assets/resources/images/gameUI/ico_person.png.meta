@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "4eb3689e-c682-4645-88cc-74458dd7781f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "ico_person": {
+      "ver": "1.0.3",
+      "uuid": "8bdb7729-bd92-470e-988b-3fe81d998f5f",
+      "rawTextureUuid": "4eb3689e-c682-4645-88cc-74458dd7781f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 63,
+      "height": 75,
+      "rawWidth": 63,
+      "rawHeight": 75,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
